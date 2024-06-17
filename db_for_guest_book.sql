@@ -63,7 +63,6 @@ INSERT INTO `users` (`id`, `username`, `email`, `captcha`, `text`, `date`, `ip`,
 (18, 'Степан', 'zozikgoog@gmail.com', 'jRA7Q', 'здравствуйте всего хорошего', 'Mon Jun 17 2024 18:08:23 GMT+0500 (Екатеринбург, стандартное время)', '37.76.152.232', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0'),
 (19, 'qrew', 'qwer@asdasd.ru', 'yAKiU', 'esdfsdfadfasfdasdf', 'Mon Jun 17 2024 18:26:49 GMT+0500 (Екатеринбург, стандартное время)', '37.76.152.232', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0'),
 (20, 'asdsda', 'dfsfsaf@mail.ru', 'TX8nK', 'saddasnmmnmhm', 'Mon Jun 17 2024 18:29:59 GMT+0500 (Екатеринбург, стандартное время)', '185.201.88.246', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'),
-(21, 'Матвей', 'thetimegoesby@mail.ru', 'KFW3i', 'Не ешьте красный доширак...', 'Mon Jun 17 2024 18:36:09 GMT+0500 (Екатеринбург, стандартное время)', '185.201.88.246', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36');
 
 --
 -- Индексы сохранённых таблиц
